@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/call"
+    android:title="@string/call"
+    android:icon="@drawable/ic_baseline_call_24" />
+    <item android:id="@+id/contact"
+        android:title="@string/contact"
+        android:icon="@drawable/ic_baseline_perm_contact_calendar_24"/>
+    <item android:id="@+id/records"
+        android:title="@string/records"
+        android:icon="@drawable/ic_baseline_record_voice_over_24"/>
+
+</menu>

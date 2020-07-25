@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">callPhone</string>
+    <string name="call">电话</string>
+    <string name="contact">联系人</string>
+    <string name="records">通话记录</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="contactIcom">联系人图标</string>
+    <string name="callNumber">电话号码输入框</string>
+    <string name="deleteContact">删除联系人</string>
+</resources>
