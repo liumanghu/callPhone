@@ -37,6 +37,7 @@ public class DataBaseOperate extends SQLiteOpenHelper {
     public void onCreate(SQLiteDatabase db) {
         db.execSQL(tableCreate_Contacts_sql);
         db.execSQL(tableCreate_CallRecord_sql);
+
     }
 
     @Override
